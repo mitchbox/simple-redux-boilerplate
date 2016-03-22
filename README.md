@@ -13,7 +13,7 @@ $ npm install
 ### Development
 
 ```
-$ npm start
+$ npm run start
 open http://localhost:3000
 ```
 
