@@ -1,0 +1,18 @@
+:local(.styles) {
+    .logo {
+        a {
+            font-weight: bold;
+        }
+    }
+  
+    .nav {
+        a.active {
+            background-color: #080808;
+            color: #fff;
+            font-weight: bold;
+        }
+        a.active:hover, a.active:focus {
+            background-color: #080808;
+        }
+    }
+}
