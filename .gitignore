@@ -10,7 +10,6 @@ ios
 .gitattributes
 .editorconfig
 npm-debug.log
-dist/
 .idea_modules/
 /out/
 atlassian-ide-plugin.xml
