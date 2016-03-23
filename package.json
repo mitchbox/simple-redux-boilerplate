@@ -18,7 +18,7 @@
   "homepage": "https://github.com/mitchbox/simple-redux-boilerplate",
   "bugs": "https://github.com/mitchbox/simple-redux-boilerplate/issues",
   "keywords": [
-    "unionpay"
+    "react", "reactjs", "redux", "boilerplate", "webpack"
   ],
   "license": "MIT",
   "authors": [
