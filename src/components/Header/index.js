@@ -9,7 +9,7 @@ export class Header extends Component {
             <nav className={`${styles} navbar navbar-inverse navbar-fixed-top`}>
                 <div className="container">
                     <div className="navbar-header">
-                        <a className="navbar-brand" href="">Project Name</a>
+                        <a className="navbar-brand" href="">Simple Redux Boilerplate</a>
                     </div>
                     <div className="collapse navbar-collapse">
                         <ul className="nav navbar-nav">
