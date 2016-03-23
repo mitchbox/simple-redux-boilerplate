@@ -10,6 +10,7 @@ Simple Redux Boilerplate
 * [Webpack](https://github.com/webpack/webpack)
 * [Babel](https://github.com/babel/babel)
 * [ESLint](http://eslint.org/)
+* [Bootstrap](http://getbootstrap.com/)
 
 
 ### Installation
