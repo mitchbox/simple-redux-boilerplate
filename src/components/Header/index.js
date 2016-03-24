@@ -14,7 +14,7 @@ export class Header extends Component {
                     <div className="collapse navbar-collapse">
                         <ul className="nav navbar-nav">
                             <li>
-                                <Link to="/home" activeClassName="active">Home</Link>
+                                <Link to="/" activeClassName="active" onlyActiveOnIndex>Home</Link>
                             </li>
                             <li>
                                 <Link to="/about" activeClassName="active">About</Link>
