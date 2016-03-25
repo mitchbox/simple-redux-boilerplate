@@ -19,7 +19,7 @@ const metaData = {
 export class Home extends Component {
     render() {
         return (
-            <div className="main">
+            <div>
                 <DocumentMeta {...metaData} />
                 <HomeSection />
             </div>
