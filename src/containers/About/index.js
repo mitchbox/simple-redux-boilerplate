@@ -24,7 +24,7 @@ export class About extends Component {
 
     render() {
         return (
-            <div className="main">
+            <div>
                 <DocumentMeta {...metaData} />
                 <AboutSection {...this.props} />
             </div>
